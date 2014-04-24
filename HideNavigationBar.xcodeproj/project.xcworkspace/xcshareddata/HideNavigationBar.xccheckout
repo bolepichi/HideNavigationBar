@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F94D466E-E1CD-47FC-8920-61B928CF763E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HideNavigationBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D73070A2-5A12-4153-B264-F7621F51AEA4</key>
+		<string>ssh://github.com/lesliehan9210/HideNavigationBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HideNavigationBar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D73070A2-5A12-4153-B264-F7621F51AEA4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lesliehan9210/HideNavigationBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D73070A2-5A12-4153-B264-F7621F51AEA4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D73070A2-5A12-4153-B264-F7621F51AEA4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HideNavigationBar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
